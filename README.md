@@ -1,4 +1,5 @@
 # picture-row-3-block
+<html>
 <head>
   <style>
     .content-section{
@@ -62,3 +63,4 @@
       </div>
   </section>
 </body>
+</html>
